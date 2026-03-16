@@ -51,11 +51,10 @@
     src="https://github-readme-stats.vercel.app/api?username=caoliang520&show_icons=true&theme=radical&count_private=true&hide_border=false&include_all_commits=true" 
     alt="GitHub 统计" 
     style="width: 48%; margin: 0 1%;"  <!-- 宽度48% + 左右间距1%，避免重叠 -->
-  />
   <!-- 卡片2：最常用语言统计 -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoliang520&layout=compact&theme=radical&count_private=true&hide_border=false&langs_count=6" 
-    alt="最常用编程语言" 
+    alt="Java" 
     style="width: 48%; margin: 0 1%;"
   />
 </div>
