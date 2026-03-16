@@ -57,8 +57,8 @@
 </div>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoliang520" /> </div>
-
-![Metrics](https://metrics.lecoq.io/caoliang520?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
+<div align="center"> <img src="
+https://metrics.lecoq.io/caoliang520?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&achievements=false&achievements.threshold=A&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai"> </div>
 
 ## 🌟 重点项目
 | 项目名称 | 技术栈 | 简介 |
