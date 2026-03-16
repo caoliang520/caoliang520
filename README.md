@@ -47,15 +47,17 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=caoliang520" /> </div>
 
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caoliang520&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoliang520&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
 </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=caoliang520" /> </div>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=caoliang520&theme=xcode" /> </div>
+
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=caoliang520" /> </div>
+
 
 
 ## 🌟 重点项目
