@@ -43,7 +43,7 @@
 - 📫 联系我：「 (https://xxx.com) 」
 - ⚡ 趣味：「Steam 游戏爱好者、摄影、徒步」
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=sun0225SUN" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=caoliang520" /> </div>
 
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
