@@ -15,20 +15,20 @@
 <img src="https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/-SpringCloud%20Alibaba-FF2D20?style=flat-square&logo=spring&logoColor=white" />
-
+<br/>
 <!-- 数据层 & 数据库 -->
 <img src="https://img.shields.io/badge/-MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white" />
 <img src="https://img.shields.io/badge/-MyBatis%20Plus-208B3A?style=flat-square&logo=mybatis&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
-
+<br/>
 <!-- 中间件 & 工具 -->
 <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/-Nacos-208B3A?style=flat-square&logo=nacos&logoColor=white" />
 <img src="https://img.shields.io/badge/-Gateway-6DB33F?style=flat-square&logo=spring-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20Web%20Tokens&logoColor=white" />
-
+<br/>
 <!-- 基础语言 & 容器 -->
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -46,8 +46,8 @@
 ## 📊 我的 GitHub 数据
 <!-- 自动生成的 GitHub 统计卡片 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=caoliang520&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoliang520&layout=compact&theme=radical" alt="Java" style="width: 48%;"/>
 </div>
 
 ## 🌟 重点项目
@@ -59,5 +59,5 @@
 ## 🎨 趣味数据
 <!-- GitHub 贡献图 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caoliang520&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
 </div>
