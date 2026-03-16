@@ -40,24 +40,16 @@
 - 🔭 目前专注于：「Java、SpringBoot、Spring、Mybatis、SpringMVC、Docker」
 - 🌱 学习中：「Java Stream 编程、Java分布式」
 - 💬 擅长：「后端接口设计」
-- 📫 联系我：「(https://xxx.com)」
+- 📫 联系我：「 (https://xxx.com) 」
 - ⚡ 趣味：「Steam 游戏爱好者、摄影、徒步」
 
 ## 📊 我的 GitHub 数据
-<!-- 自动生成的 GitHub 统计卡片 - 双卡片并排 -->
-<div align="center"> <!-- 整体居中 -->
-  <!-- 卡片1：GitHub 总统计（提交数、星星数、仓库数等） -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=caoliang520&show_icons=true&theme=radical&count_private=true&hide_border=false&include_all_commits=true" 
-    alt="GitHub 统计" 
-    style="width: 48%; margin: 0 1%;"  <!-- 宽度48% + 左右间距1%，避免重叠 -->
-  <!-- 卡片2：最常用语言统计 -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoliang520&layout=compact&theme=radical&count_private=true&hide_border=false&langs_count=6" 
-    alt="Java" 
-    style="width: 48%; margin: 0 1%;"
-  />
+<!-- 自动生成的 GitHub 统计卡片 -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caoliang520&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caoliang520&layout=compact&theme=radical" alt="常用语言" style="width: 48%;"/>
 </div>
+
 
 ## 🌟 重点项目
 | 项目名称 | 技术栈 | 简介 |
