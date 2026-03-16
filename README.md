@@ -64,7 +64,6 @@
 | [购物平台](https://gitee.com/liang_cao/sky-take-out)  | 「Spring、SpringMVC、Springboot、Mybatis、Redis、MySQL、JWT」：基于 Spring Boot+MyBatis+Redis+MySQL 的校园点餐平台，项目分为客户端和商家端，商家端主要实现了对员工和菜品的增删改查以及订单相关数据的查看与分析。客户端基于微信小程序实现了在线点餐、下单、催单等功能。 |
 | [鲜享优选] | 「SpringCloud Alibaba、Nacos、Gateway、Redis、RabbitMQ、MybatisPlus、Docker、Elasticsearch 」： 基于SpringCloud Alibaba微服务架构开发的社区团购平台，包含平台管理端、用户小程序端，实现商品管理、订单支付等完整业务流程。
 
-<div align="center"> <img src="https://metrics.lecoq.io/caoliang520?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&starlists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=Asia%2FShanghai" /> </div>
 
 ## 🎨 趣味数据
 <!-- GitHub 贡献图 -->
