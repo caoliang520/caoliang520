@@ -2,8 +2,7 @@
 
 
 
-<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->!
-[【哲风壁纸】办公设备-幽默](https://github.com/user-attachments/assets/1ba3a8ac-c52b-4407-90e7-0480b28334ae)
+<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
 
 💻 Full Stack Developer | 🚀 SpringBoot/SpringCloud实践者 | 🎮 游戏爱好者
 
