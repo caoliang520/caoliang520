@@ -1,8 +1,10 @@
 # 👋 Hi, I'm LCo
 
-![【哲风壁纸】像素风格-房间](https://github.com/user-attachments/assets/58f1f216-83d6-41eb-9c19-0b94d22e9e2c)
 
-<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
+
+<!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->!
+[【哲风壁纸】办公设备-幽默](https://github.com/user-attachments/assets/1ba3a8ac-c52b-4407-90e7-0480b28334ae)
+
 💻 Full Stack Developer | 🚀 SpringBoot/SpringCloud实践者 | 🎮 游戏爱好者
 
 <!-- 技术栈徽章（复用你之前的居中代码） -->
