@@ -1,6 +1,8 @@
+
+https://github.com/user-attachments/assets/808bbaad-cdbb-47da-89d8-6da42162d0ef
 # 👋 Hi, I'm LCo
 
-<video src="https://haowallpaper.com/link/common/file/previewFileImg/17983727331233152" width="600" controls autoplay loop muted></video>
+
 
 <!-- 个性化签名，比如「全栈开发者 | 热爱前端/后端」 -->
 💻 Full Stack Developer | 🚀 SpringBoot/SpringCloud实践者 | 🎮 游戏爱好者
